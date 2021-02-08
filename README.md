@@ -1,8 +1,8 @@
 # M3103. ИС. ИТиП. ИТМО
 ## 2 семестр 
 
-### [Ссылки на занятия](https://fitp.itmo.ru/p/spring-2021/394)
-### [Расписание](https://fitp.itmo.ru/p/spring-2021/428)
+## [Ссылки на занятия](https://fitp.itmo.ru/p/spring-2021/394)
+## [Расписание](https://fitp.itmo.ru/p/spring-2021/428)
 
 Учебные дисциплины:
 *  [Линейная алгебра](Subjects/linal.md)
