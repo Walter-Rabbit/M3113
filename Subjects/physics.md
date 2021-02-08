@@ -2,7 +2,7 @@
 
 ## 2 семестр
 
-# [Сайт фтф](https://study.physics.itmo.ru/?redirect=0)
+## [Сайт фтф](https://study.physics.itmo.ru/?redirect=0)
 
 ### Лекции
 
