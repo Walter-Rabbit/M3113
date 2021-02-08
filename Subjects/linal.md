@@ -3,9 +3,9 @@
 ## 2 семестр
 ### Лекции
 
-### [mathdep](http://mathdep.ifmo.ru/mmtp/special_sections_lin_alg/)
-
 **Преподаватель:** Москаленко Мария Александровна
+
+[mathdep](http://mathdep.ifmo.ru/mmtp/special_sections_lin_alg/)
 
 moskalenko.mary@gmail.com
 
