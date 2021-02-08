@@ -5,7 +5,7 @@
 
 **Преподаватель:** Пермяков Антон Сергеевич 
 
-[Лекции](https://us02web.zoom.us/j/5373576323?pwd=eVh0cCsrZ00rR0kranNEUlJFNHpTdz09)
+[Ссылка на лекции в зуме](https://us02web.zoom.us/j/5373576323?pwd=eVh0cCsrZ00rR0kranNEUlJFNHpTdz09)
 
 [Литература и материалы!](https://drive.google.com/drive/u/0/folders/19WCKf3qU5VC0JrMJ-EqwvDkFLOi1lOQb)
 
