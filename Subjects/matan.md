@@ -4,9 +4,9 @@
 
 ### Лекции
 
-[Гугол диск препода](https://drive.google.com/drive/folders/1Z9eCKcLXPg33Rpt_qi1DXonKexxaNdMq)
-
 **Преподаватель:** Возианова Анна Викторовна
+
+[Гугол диск препода](https://drive.google.com/drive/folders/1Z9eCKcLXPg33Rpt_qi1DXonKexxaNdMq)
 
 
 ### Практики 
