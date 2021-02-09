@@ -14,10 +14,10 @@
 *  [Английский язык](Subjects/english.md)
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
-Документы:
-* [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
-
 Учебные ссылки:
-*  [БАРС](https://bars.itmo.ru/bars/disciplines)
+* [Канал с объявлениями группы](https://t.me/M3113group)
+* [Канал с объявлениями ИСа](https://t.me/itmo_is_24)
+* [Чат группы](https://t.me/joinchat/IMR9KkBJlz0QPOPK)
+* [БАРС](https://bars.itmo.ru/bars/disciplines)
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
