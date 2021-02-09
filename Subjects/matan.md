@@ -6,7 +6,7 @@
 
 **Преподаватель:** Возианова Анна Викторовна
 
-[Ссылка на зум](https://itmo.zoom.us/j/82783191170?pwd=SGF4M0Q3UkVKdXlCWHNSYkc4bmpwUT09)
+[Ссылка на зум](https://itmo.zoom.us/j/82192561093?pwd=WDI2cE9aYkdVQTRGV29jTTVoeFRoZz09)
 
 [Гугол диск препода](https://drive.google.com/drive/folders/1Z9eCKcLXPg33Rpt_qi1DXonKexxaNdMq)
 
