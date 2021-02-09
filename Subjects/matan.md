@@ -11,7 +11,7 @@
 [Гугл диск](https://drive.google.com/drive/folders/1Z9eCKcLXPg33Rpt_qi1DXonKexxaNdMq)
 
 Концепт борды:
- * [Лекция 1 Интегральные исчисления](https://app.conceptboard.com/board/32d7-ci1f-h70b-mram-11qq)
+ * [Лекция 1](https://app.conceptboard.com/board/32d7-ci1f-h70b-mram-11qq)
 
 
 ### Практики 
