@@ -11,7 +11,7 @@
 *  [Дискретная математика](Subjects/discrete.md)
 *  [Алгоритмы и структуры данных](Subjects/algorithms.md)
 *  [Специальные разделы физики](Subjects/physics.md)
-*  [Английский язык](https://vk.com/fltc.itmo)
+*  [Английский язык](Subjects/english.md)
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 Документы:
