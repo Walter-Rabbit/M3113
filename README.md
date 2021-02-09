@@ -16,8 +16,8 @@
 
 Учебные ссылки:
 * [Канал с объявлениями группы](https://t.me/M3113group)
-* [Чат группы](https://t.me/joinchat/IMR9KkBJlz0QPOPK)
 * [Канал с объявлениями ИСа](https://t.me/itmo_is_24)
+* [Чат группы](https://t.me/joinchat/IMR9KkBJlz0QPOPK)
 * [БАРС](https://bars.itmo.ru/bars/disciplines)
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
