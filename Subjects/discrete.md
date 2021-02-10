@@ -9,6 +9,8 @@
 
 [Ссылка на зум](https://us02web.zoom.us/j/5373576323?pwd=eVh0cCsrZ00rR0kranNEUlJFNHpTdz09)
 
+[Ссылка на дискорд с материалами](https://discord.gg/qgK5HT9T)
+
 [Литература и материалы!](https://drive.google.com/drive/u/0/folders/19WCKf3qU5VC0JrMJ-EqwvDkFLOi1lOQb)
 
 [Гугол док с оценками](https://docs.google.com/spreadsheets/d/1s_6PV40fFa0zKhZjKVN-v3FM9e0g05HGaTDSRmRgDLU/edit#gid=1728556842)
