@@ -11,4 +11,5 @@
 
 **Преподаватель:** Григорьев Владислав Михайлович 
 
+[Ссылка на чат](https://t.me/joinchat/Ic2eA431TleL7Trh)
 [Лабы здесь](https://drive.google.com/drive/folders/1jmmZsH7u3udkW3QCbpuSHM5DdE1D5TZW)
