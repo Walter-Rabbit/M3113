@@ -21,6 +21,7 @@
 
 * Основы теории определитеоей [*Лекция 11*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
 
+* [Лекция 19.03.21](https://app.conceptboard.com/board/1g8p-reg7-83s0-ug90-goun)
 
 moskalenko.mary@gmail.com
 
