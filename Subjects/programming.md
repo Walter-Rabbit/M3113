@@ -8,7 +8,7 @@
 [Ссылка на зум](https://itmo.zoom.us/j/3148049243?pwd=eGc0THI5dWRvbEt4L212K0lhN2E4dz09)
 
 ### Практики 
-Тест
+
 **Преподаватель:** Григорьев Владислав Михайлович 
 
 [Ссылка на чат](https://t.me/joinchat/Ic2eA431TleL7Trh)
