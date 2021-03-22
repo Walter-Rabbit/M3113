@@ -7,19 +7,13 @@
 
 [mathdep](http://mathdep.ifmo.ru/mmtp/special_sections_lin_alg/)
 
-* Алгебраические структуры [*Лекция 1*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
+* Полилинейные формы [*Лекция*](https://youtu.be/JuC73gaWSKc)
 
-* Линейная зависимость векторов [*Лекция 2*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
+* Симметризация и ассимметризация ПЛФ [*Лекция*](https://youtu.be/QtWHCDG7AJM)
 
-* Изоморфизм линейных пространств [*Лекция 3*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
+* Произведения ПЛФ [*Лекция*](https://youtu.be/hQtts8alhgI)[*Конспект*](https://drive.google.com/file/d/1H5qiCCgOoJTLwQl42qPl0XbJZR8115tr/view?usp=sharing)
 
-* Сумма и пересечение подпространств [*Лекция 4*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
-
-* Алгебра линейных форм [*Лекция 6*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
-
-* Произведения ПЛФ [*Лекция 10*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
-
-* Основы теории определитеоей [*Лекция 11*](https://drive.google.com/drive/folders/1Ob_pSYxIe50IO_Ci5eSspL-paiYN-ULD)
+* Основы теории определитеоей [*Конспект*](https://drive.google.com/file/d/1OGCf-ZO6C52uDksypi7CIpOQU5vu1jI7/view?usp=sharing)
 
 
 moskalenko.mary@gmail.com
