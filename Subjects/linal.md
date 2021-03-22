@@ -11,7 +11,7 @@
 
 * Симметризация и ассимметризация ПЛФ [*Лекция*](https://youtu.be/QtWHCDG7AJM)
 
-* Произведения ПЛФ [*Лекция*](https://youtu.be/hQtts8alhgI)[*Конспект*](https://drive.google.com/file/d/1H5qiCCgOoJTLwQl42qPl0XbJZR8115tr/view?usp=sharing)
+* Произведения ПЛФ [*Лекция*](https://youtu.be/hQtts8alhgI) [*Конспект*](https://drive.google.com/file/d/1H5qiCCgOoJTLwQl42qPl0XbJZR8115tr/view?usp=sharing)
 
 * Основы теории определитеоей [*Конспект*](https://drive.google.com/file/d/1OGCf-ZO6C52uDksypi7CIpOQU5vu1jI7/view?usp=sharing)
 
