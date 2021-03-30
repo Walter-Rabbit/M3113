@@ -21,6 +21,7 @@
 * 15 марта [*Лекция 7*](https://app.conceptboard.com/board/84uo-cm6f-csdp-b0qf-qi45)
 * 16 марта [*Лекция 8*](https://app.conceptboard.com/board/xtez-25ob-08b5-7hz2-m53x)
 * 23 марта [*Лекция 9*](https://app.conceptboard.com/board/uggh-9un7-yc7q-si6d-h8ro)
+* 30 марта [*Лекция 10*](https://app.conceptboard.com/board/68x6-y5z8-tyq0-ggg6-9dek)
 
 ### **Практики**
 
