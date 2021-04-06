@@ -10,7 +10,9 @@
 
 [Ссылка на зум](https://itmo.zoom.us/j/82192561093?pwd=WDI2cE9aYkdVQTRGV29jTTVoeFRoZz09)
 
-[Гугл диск](https://drive.google.com/drive/folders/1o6MOOLWWBaIm3gym4o4Z-nUO3WNLVF4y)
+[Гугл диск с материалами](https://drive.google.com/drive/folders/1o6MOOLWWBaIm3gym4o4Z-nUO3WNLVF4y)
+
+[Гугл диск с записями лекций](https://drive.google.com/drive/folders/1yopyNFwPRtl_AqggfUgGaBA43BhybMGp) *нужно запросить доступ*
 
 **Концепт борды:**
 * 9 февраля [*Лекция 1*](https://app.conceptboard.com/board/32d7-ci1f-h70b-mram-11qq)
