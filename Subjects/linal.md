@@ -15,6 +15,7 @@
 
 * Основы теории определитеоей [*Конспект*](https://drive.google.com/file/d/1OGCf-ZO6C52uDksypi7CIpOQU5vu1jI7/view?usp=sharing)
 
+* Алгебра скалярных полиномов [*Доска*] (https://app.conceptboard.com/board/3cee-1xuc-gpk4-a6cb-ai01)
 
 moskalenko.mary@gmail.com
 
