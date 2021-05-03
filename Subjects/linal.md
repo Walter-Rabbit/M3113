@@ -7,7 +7,7 @@
 
 [mathdep](http://mathdep.ifmo.ru/mmtp/special_sections_lin_alg/)
 
-[Таблица](https://docs.google.com/spreadsheets/d/1zma42e--djX7yjectJLtku-KJJaMwlvi_1oYQhoTPyY/edit#gid=754691713) с баллами
+[Таблица с баллами](https://docs.google.com/spreadsheets/d/1zma42e--djX7yjectJLtku-KJJaMwlvi_1oYQhoTPyY/edit#gid=754691713)
 
 moskalenko.mary@gmail.com
 
