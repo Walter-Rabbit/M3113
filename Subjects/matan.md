@@ -34,8 +34,8 @@
 
 ### **Практики**
 
-[Разделение на 1-ый РГР](https://docs.google.com/spreadsheets/d/1IwyD901HH0nAlGi7dVLh2FO4mnsOQGtaVUWxnY8Hu3Q/edit#gid=0)
-
 **Преподаватель:** Возианова Анна Викторовна
+
+[Разделение на 1-ый РГР](https://docs.google.com/spreadsheets/d/1IwyD901HH0nAlGi7dVLh2FO4mnsOQGtaVUWxnY8Hu3Q/edit#gid=0)
 
 [Чат практики](https://t.me/joinchat/AAAAAFTaEWwcDs-cf7hW7g)
