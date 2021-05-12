@@ -31,6 +31,8 @@
 * 27 апреля [*Лекция 16*](https://app.conceptboard.com/board/9yxf-mnkb-7ye1-gzrh-t3s5)
 * 1 мая [*Лекция 17*](https://app.conceptboard.com/board/ynxu-p677-3ncs-etzx-oa5k)
 * 4 мая [*Лекция 18*](https://app.conceptboard.com/board/h5b4-5at9-pxm1-t7nd-y64y)
+* 11 мая *Лекция 19* была проведена очно
+* 12 мая [*Лекция 20*](https://app.conceptboard.com/board/d8dc-4zm1-b1za-0np4-qz90)
 
 ### **Практики**
 
